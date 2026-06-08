@@ -1,6 +1,6 @@
 <h1 align="center">Launchpad: Reloaded</h1>
 
-# ❔ About Us
+# About
 Launchpad is a mod for Among Us that adds in brand new roles, features, and gamemodes! It is designed so that the roles and features stay somewhat consistent with the original game and don't feel out of place!
 
 ## Features
